@@ -9,4 +9,5 @@
 	<ExtMountFolder FolderName="Common"/>
 	<ExtMountFolder FolderName="swc-types-lab2"/>
 	<ExtMountFolder FolderName="Sender-Receiver-interfaces-lab3"/>
+	<ExtMountFolder FolderName="client-server-lab4"/>
 </Project>
